@@ -10,7 +10,7 @@ const data: { [key: string]: string[] }  = {
   "hono": ['asins=4297127474&linkId=0273a8b57bb4a5f313d44ba0e121e7ee'],
   "mysql": ['asins=4798161489&linkId=923988d26bd74860cc8ba8781993ab7f', 'asins=4797393114&linkId=a925c85e1f91b742a6b6f934524729e8'],
   "next.js": ['asins=4297129167&linkId=df00a3c30369366dbf58d5a82e125b88', 'asins=4839980179&linkId=485e523bcd9bf9480492ab168d1cb9fa'],
-  "ruby": ['asins=4297124378&linkId=ab79cf41594d33d4f4b194b2bed0668e', 'asins=B071K5WM6P&linkId=3dac1a882d5c7cb55e336a905bb53d3b"'],
+  "ruby": ['asins=4297124378&linkId=ab79cf41594d33d4f4b194b2bed0668e', 'asins=B071K5WM6P&linkId=3dac1a882d5c7cb55e336a905bb53d3b'],
   "rails": ['asins=4297114623&linkId=940b10383211102c07b1f0a0eb01d90b', 'asins=B0BGMWMSLN&linkId=9aca42796561a570dbfc907b6c4bdb3a'],
   "raspberry-pi": ['asins=4865941134&linkId=f40c387e45b00c25fc4be73d67cf231e', 'asins=4800712971&linkId=044501ae7ff701043bd033b0ed29873c'],
   "react": ['asins=4873119383&linkId=1e6d260e4a8ea2f5b275505f68b9f159', 'asins=4297129167&linkId=2cf3a9eda835f2a60dccfbc9d0f05c9c'],
