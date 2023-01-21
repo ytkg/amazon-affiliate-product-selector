@@ -5,7 +5,7 @@ const baseUrl = '//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&b
 
 const pickUrlCount = 2
 
-const pickUrls = (tags: string[]) => {
+const pickUrls = (tags: string[], count: number) => {
   const default_codes: string[] = [] // data['other']
 
   const urls = R.uniq(R.transpose(tags.map((tag) => data[tag] || default_codes)).flat()).map((code) => {
@@ -20,7 +20,7 @@ const pickUrls = (tags: string[]) => {
     console.log('----------------')
   }
 
-  return R.take(pickUrlCount, urls)
+  return R.take(count || pickUrlCount, urls)
 }
 
 export default pickUrls

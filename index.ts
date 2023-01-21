@@ -11,7 +11,8 @@ app.get('/', async (c) => {
   }
 
   const tags = c.req.query('tags').split(',')
-  const urls = pickUrls(tags)
+  const count = parseInt(c.req.query('count'))
+  const urls = pickUrls(tags, count)
 
   return c.json(urls)
 })
