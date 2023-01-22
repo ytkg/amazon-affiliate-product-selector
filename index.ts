@@ -1,6 +1,6 @@
 import { Hono } from 'hono'
 import { cors } from 'hono/cors'
-import pickUrls from './lib/pick_urls'
+import pickAdTags from './lib/pick_ad_tags'
 
 const app = new Hono()
 
@@ -12,9 +12,9 @@ app.get('/', async (c) => {
 
   const tags = c.req.query('tags').split(',')
   const count = parseInt(c.req.query('count'))
-  const urls = pickUrls(tags, count)
+  const adTags = pickAdTags(tags, count)
 
-  return c.json(urls)
+  return c.json(adTags)
 })
 
 export default app
