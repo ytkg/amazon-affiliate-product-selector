@@ -479,10 +479,10 @@ glob-parent@~5.1.2:
   dependencies:
     is-glob "^4.0.1"
 
-hono@^2.7.8:
-  version "2.7.8"
-  resolved "https://registry.yarnpkg.com/hono/-/hono-2.7.8.tgz#5f6916c7f6838fe1f909f6046b30e6a0900f3128"
-  integrity sha512-LXLXw6LilE16QO0siFBDiNzmaRP6ca5ZyF0gDWcaiUqJJtE/d4lV/Hpst2O33AmJB5n0DQa5w53gZLUVf7uXNg==
+hono@^3.1.6:
+  version "3.1.6"
+  resolved "https://registry.yarnpkg.com/hono/-/hono-3.1.6.tgz#7a7ca700fff69553a8c2a7a97d544f49bb8b1bd3"
+  integrity sha512-ugC7YbuyATZChp+SxfstiavvTCqENjvSiTiDAkbAOP20pJ58N4kXcbDi93SwZrvMFA2VVx1veMYHrsvUY9hcVA==
 
 html-rewriter-wasm@^0.4.1:
   version "0.4.1"
