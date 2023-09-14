@@ -162,10 +162,10 @@
   resolved "https://registry.yarnpkg.com/@esbuild/win32-x64/-/win32-x64-0.17.19.tgz#8cfaf2ff603e9aabb910e9c0558c26cf32744061"
   integrity sha512-lAhycmKnVOuRYNtRtatQR1LPQf2oYCkRGkSFnseDAKPl8lu5SOsK/e1sXe5a0Pc5kHIHe6P2I/ilntNv2xf3cA==
 
-"@types/ramda@^0.29.3":
-  version "0.29.3"
-  resolved "https://registry.yarnpkg.com/@types/ramda/-/ramda-0.29.3.tgz#6e4d4066df900a3456cf402bcef9b78b6990a754"
-  integrity sha512-Yh/RHkjN0ru6LVhSQtTkCRo6HXkfL9trot/2elzM/yXLJmbLm2v6kJc8yftTnwv1zvUob6TEtqI2cYjdqG3U0Q==
+"@types/ramda@^0.29.4":
+  version "0.29.4"
+  resolved "https://registry.yarnpkg.com/@types/ramda/-/ramda-0.29.4.tgz#4bfe4729586290089d613d1becf8da4cf4054df5"
+  integrity sha512-bd3nyfkZd5EVxuBf1kW6wvFz61SvAEfXXISIEIePJOj2XRjCHyro1ikvDXTXIlpRtuC6lwTMfYdkXCD+oiXQfw==
   dependencies:
     types-ramda "^0.29.4"
 
