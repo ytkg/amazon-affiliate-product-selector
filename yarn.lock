@@ -338,10 +338,10 @@ glob-to-regexp@^0.4.1:
   resolved "https://registry.yarnpkg.com/glob-to-regexp/-/glob-to-regexp-0.4.1.tgz#c75297087c851b9a578bd217dd59a92f59fe546e"
   integrity sha512-lkX1HJXwyMcprw/5YUZc2s7DrpAiHB21/V+E1rHUrVNokkvB6bqMzT0VfV6/86ZNabt1k14YOIaT7nDvOX3Iiw==
 
-hono@^3.8.1:
-  version "3.8.1"
-  resolved "https://registry.yarnpkg.com/hono/-/hono-3.8.1.tgz#a138c62233c80b7ede446885d8dda0858f4b5058"
-  integrity sha512-im5K3bEyb6iMQP5Tfei5vfoHLnIKrsAqT/GNJJ4lxS75MvNaecUbPX0Xgi0ibTIos31lA5oYevMDGNNXhHJ9wA==
+hono@^3.8.4:
+  version "3.8.4"
+  resolved "https://registry.yarnpkg.com/hono/-/hono-3.8.4.tgz#7b79a4904cec65abd5c1e7e788b32c12f4e7e89f"
+  integrity sha512-phh1Nl1QrdSqXqnxBH5mRRVcor+2qDXjBiQ55xOGNT69Zqb65FBc07FOZKvcmYA0Iji1NLWhgtpfNHr033UvqQ==
 
 is-binary-path@~2.1.0:
   version "2.1.0"
