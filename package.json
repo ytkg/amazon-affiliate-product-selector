@@ -6,7 +6,7 @@
     "deploy": "wrangler publish index.ts"
   },
   "dependencies": {
-    "hono": "^4.3.3",
+    "hono": "^4.3.4",
     "ramda": "^0.30.0"
   },
   "devDependencies": {
