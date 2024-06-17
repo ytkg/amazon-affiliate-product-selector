@@ -13,7 +13,7 @@
     "@cloudflare/workers-types": "^4.20240605.0",
     "@types/ramda": "^0.30.0",
     "typescript": "^5.4.5",
-    "wrangler": "3.60.2"
+    "wrangler": "3.60.3"
   },
   "private": true
 }
