@@ -344,10 +344,10 @@ hasown@^2.0.0:
   dependencies:
     function-bind "^1.1.2"
 
-hono@^4.6.13:
-  version "4.6.13"
-  resolved "https://registry.yarnpkg.com/hono/-/hono-4.6.13.tgz#e92b328c80823802f0b346a5c4b56470adb242bc"
-  integrity sha512-haV0gaMdSjy9URCRN9hxBPlqHa7fMm/T72kAImIxvw4eQLbNz1rgjN4hHElLJSieDiNuiIAXC//cC6YGz2KCbg==
+hono@^4.6.14:
+  version "4.6.14"
+  resolved "https://registry.yarnpkg.com/hono/-/hono-4.6.14.tgz#f83f51e81b8ae5611dab459570990bf4c977d20c"
+  integrity sha512-j4VkyUp2xazGJ8eCCLN1Vm/bxdvm/j5ZuU9AIjLu9vapn2M44p9L3Ktr9Vnb2RN2QtcR/wVjZVMlT5k7GJQgPw==
 
 is-core-module@^2.13.0:
   version "2.13.1"
