@@ -10,7 +10,7 @@
     "ramda": "^0.31.3"
   },
   "devDependencies": {
-    "@cloudflare/workers-types": "^4.20250926.0",
+    "@cloudflare/workers-types": "^4.20250927.0",
     "@types/ramda": "^0.31.1",
     "typescript": "^5.9.2",
     "wrangler": "4.40.1"
