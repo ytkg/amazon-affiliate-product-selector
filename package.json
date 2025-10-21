@@ -7,7 +7,7 @@
   },
   "dependencies": {
     "hono": "^4.9.8",
-    "ramda": "^0.31.3"
+    "ramda": "^0.32.0"
   },
   "devDependencies": {
     "@cloudflare/workers-types": "^4.20250926.0",
